@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>Paramètres de stockage des stagiaires</comment>
+	<entry key="urlxml">stagiaires.xml</entry>
+</properties>
+
