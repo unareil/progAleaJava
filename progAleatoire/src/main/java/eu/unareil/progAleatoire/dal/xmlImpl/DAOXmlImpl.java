@@ -96,7 +96,6 @@ public class DAOXmlImpl implements DAO<Stagiaire> {
 		 Node noeudEnfant;
 		List<Stagiaire> stagiaires = new ArrayList<>();
 		 Document domXml;
-		 System.out.println("ici");
 		try {
 			domXml = XmlTools.getConnection();
 		 Element root = domXml.getDocumentElement();

@@ -1,5 +1,258 @@
 <?xml version="1.0" encoding="UTF-8"?><stagiaires xmlns="http://www.example.org/stagiaires" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/individus individus.xsd">
+                                                                                                                                                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <stagiaire>
+                                                                                                                                                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <id>1</id>
+                                                                                                                                                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <prenom>Rachida</prenom>
+                                                                                                                                                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <nom/>
+                                                                                                                                                                                                                                                                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <joue>true</joue>
+                                                                                                                                                                                                                                                                                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </stagiaire>
                                                                                                                                                                     
+    
     
     
     
@@ -80,7 +333,7 @@
         
         
         
-        <id>1</id>
+        <id>2</id>
                                                                                                                                                                                                                                                                                                                                         
         
         
@@ -121,7 +374,7 @@
         
         
         
-        <prenom>Rachida</prenom>
+        <prenom>Benoit</prenom>
                                                                                                                                                                                                                                                                                                                                         
         
         
@@ -203,7 +456,7 @@
         
         
         
-        <joue>true</joue>
+        <joue>false</joue>
                                                                                                                                                                                                                                                                                                                                     
     
     
@@ -325,7 +578,7 @@
         
         
         
-        <id>2</id>
+        <id>3</id>
                                                                                                                                                                                                                                                                                                                                 
         
         
@@ -365,7 +618,7 @@
         
         
         
-        <prenom>Benoit</prenom>
+        <prenom>Antoine</prenom>
                                                                                                                                                                                                                                                                                                                                 
         
         
@@ -564,7 +817,7 @@
         
         
         
-        <id>3</id>
+        <id>4</id>
                                                                                                                                                                                                                                                                                                                         
         
         
@@ -603,7 +856,7 @@
         
         
         
-        <prenom>Antoine</prenom>
+        <prenom>Ronan</prenom>
                                                                                                                                                                                                                                                                                                                         
         
         
@@ -681,7 +934,7 @@
         
         
         
-        <joue>false</joue>
+        <joue>true</joue>
                                                                                                                                                                                                                                                                                                                     
     
     
@@ -797,7 +1050,7 @@
         
         
         
-        <id>4</id>
+        <id>5</id>
                                                                                                                                                                                                                                                                                                                 
         
         
@@ -835,7 +1088,7 @@
         
         
         
-        <prenom>Ronan</prenom>
+        <prenom>Thomas</prenom>
                                                                                                                                                                                                                                                                                                                 
         
         
@@ -911,7 +1164,7 @@
         
         
         
-        <joue>true</joue>
+        <joue>false</joue>
                                                                                                                                                                                                                                                                                                             
     
     
@@ -1024,7 +1277,7 @@
         
         
         
-        <id>5</id>
+        <id>6</id>
                                                                                                                                                                                                                                                                                                         
         
         
@@ -1061,7 +1314,7 @@
         
         
         
-        <prenom>Thomas</prenom>
+        <prenom>Adama</prenom>
                                                                                                                                                                                                                                                                                                         
         
         
@@ -1135,7 +1388,7 @@
         
         
         
-        <joue>false</joue>
+        <joue>true</joue>
                                                                                                                                                                                                                                                                                                     
     
     
@@ -1245,7 +1498,7 @@
         
         
         
-        <id>6</id>
+        <id>7</id>
                                                                                                                                                                                                                                                                                                 
         
         
@@ -1281,7 +1534,7 @@
         
         
         
-        <prenom>Adama</prenom>
+        <prenom>Romain</prenom>
                                                                                                                                                                                                                                                                                                 
         
         
@@ -1353,7 +1606,7 @@
         
         
         
-        <joue>true</joue>
+        <joue>false</joue>
                                                                                                                                                                                                                                                                                             
     
     
@@ -1460,7 +1713,7 @@
         
         
         
-        <id>7</id>
+        <id>8</id>
                                                                                                                                                                                                                                                                                         
         
         
@@ -1495,7 +1748,7 @@
         
         
         
-        <prenom>Romain</prenom>
+        <prenom>Eléonora</prenom>
                                                                                                                                                                                                                                                                                         
         
         
@@ -1669,7 +1922,7 @@
         
         
         
-        <id>8</id>
+        <id>9</id>
                                                                                                                                                                                                                                                                                 
         
         
@@ -1703,7 +1956,7 @@
         
         
         
-        <prenom>Eléonora</prenom>
+        <prenom>Arnold</prenom>
                                                                                                                                                                                                                                                                                 
         
         
@@ -1872,7 +2125,7 @@
         
         
         
-        <id>9</id>
+        <id>10</id>
                                                                                                                                                                                                                                                                         
         
         
@@ -1905,7 +2158,7 @@
         
         
         
-        <prenom>Arnold</prenom>
+        <prenom>Yoann</prenom>
                                                                                                                                                                                                                                                                         
         
         
@@ -2069,7 +2322,7 @@
         
         
         
-        <id>10</id>
+        <id>11</id>
                                                                                                                                                                                                                                                                 
         
         
@@ -2101,7 +2354,7 @@
         
         
         
-        <prenom>Yoann</prenom>
+        <prenom>Constance</prenom>
                                                                                                                                                                                                                                                                 
         
         
@@ -2199,27 +2452,27 @@
     
     </stagiaire>
                                                                                                                             
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
     
@@ -2230,193 +2483,8 @@
     
     
     <stagiaire>
-                                                                                                                                                                                                                                                        
+                                                                                
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <id>11</id>
-                                                                                                                                                                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <prenom>Constance</prenom>
-                                                                                                                                                                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <nom/>
-                                                                                                                                                                                                                                                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <joue>false</joue>
-                                                                                                                                                                                                                                                    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </stagiaire>
-                                                                                                                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    <stagiaire>
-                                                                        
         
         
         
@@ -2425,7 +2493,8 @@
         
         
         <id>12</id>
-                                                                        
+                                                                                
+        
         
         
         
@@ -2434,7 +2503,8 @@
         
         
         <prenom>Aurélien</prenom>
-                                                                        
+                                                                                
+        
         
         
         
@@ -2443,7 +2513,8 @@
         
         
         <nom/>
-                                                                        
+                                                                                
+        
         
         
         
@@ -2452,7 +2523,8 @@
         
         
         <joue>true</joue>
-                                                                    
+                                                                            
+    
     
     
     
@@ -2461,30 +2533,43 @@
     
     
     </stagiaire>
-                                
+                                    
 
 
 
 
 
+    
     
     
     <stagiaire>
-                        
+                                
+        
         
         <id>13</id>
-                        
+                                
+        
         
         <prenom>Noémie</prenom>
-                        
+                                
+        
         
         <nom/>
-                        
+                                
+        
         
         <joue>true</joue>
-                    
+                            
+    
     
     </stagiaire>
-        
+            
 
+
+    <stagiaire>
+        <id>14</id>
+        <prenom>Noéline</prenom>
+        <nom/>
+        <joue>true</joue>
+    </stagiaire>
 </stagiaires>
